@@ -1,4 +1,4 @@
-# mandelbro
+# Mandelbrot
 
 ## Run the application
 
